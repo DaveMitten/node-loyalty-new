@@ -1,0 +1,23 @@
+{
+  "name": "loyalty-new",
+  "version": "1.0.0",
+  "description": "new approach",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaveMitten/node-loyalty-new.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaveMitten/node-loyalty-new/issues"
+  },
+  "homepage": "https://github.com/DaveMitten/node-loyalty-new#readme",
+  "dependencies": {
+    "mysql2": "^1.5.2",
+    "sequelize": "^4.35.1"
+  }
+}
